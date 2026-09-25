@@ -6,3 +6,8 @@ debug
 foo.*
 *.log
 data
+.DS_Store
+*.swp
+*.swo
+*~
+*.bak
